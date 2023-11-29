@@ -12,8 +12,8 @@
         "insufficient-funds": "Fondos insuficientes",
         "yes": "Si",
         "no": "No",
-        "confirm": "Confirmar",
-        "deny": "Deny",
+        "confirm": "Confirmado",
+        "deny": "Denegado",
         "primary": "Primaria",
         "secondary": "Secundaria",
         "special": "Especial",
@@ -192,6 +192,6 @@
         "1v1-wager-loss": "¡Perdiste $%s contra %s en tu último 1v1!",
         "1v1-target-broke": "¡Tu oponente no puede permitirse esa apuesta!",
         "1v1-cant-afford": "¡No puedes permitirte esa apuesta!",
-        "1v1-on-cooldown": "¡Tú o tu oponente estáis en tiempo de reutilización para 1v1!"
+        "1v1-on-cooldown": "¡Tú o tu oponente estáis en tiempo de espera para 1v1!"
     }
 }
